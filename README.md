@@ -69,7 +69,7 @@ The lab successfully demonstrated:
 ## Screenshots
 
 ### Account Lockout Policy
-![Account Lockout Policy](screenshots/lockout-policy.png)
+![Account Lockout Policy]([screenshots/lockout-policy.png](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png))
 
 ### Lockout Event in Event Viewer
 ![Lockout Events](screenshots/lockout-events.png)
