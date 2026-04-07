@@ -69,16 +69,16 @@ The lab successfully demonstrated:
 ## Screenshots
 
 ### Account Lockout Policy
-![Account Lockout Policy]([screenshots/lockout-policy.png](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
+![Account Lockout Policy](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
 
-![Account Lockout Policy]([screenshots/lockout-policy.png](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
+![](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
 
-![Account Lockout Policy]([screenshots/lockout-policy.png](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
+![](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
 
 ### Lockout Event in Event Viewer
 ![Lockout Events](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/82202ad40176f4bb854d5868254c0ab61e8122b0/group-policy-force-update.png)
 
-![Account Lockout Policy]([screenshots/lockout-policy.png](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
+![](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
 
 ## Outcome
 Successfully configured and tested an Active Directory account lockout policy in a domain environment, then validated the resulting lockout event on the domain controller through Windows Event Viewer.
