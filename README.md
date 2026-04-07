@@ -71,7 +71,7 @@ The lab successfully demonstrated:
 ### Account Lockout Policy
 ![Account Lockout Policy](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
 
-![](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
+![]([https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/b9c2f747e092aebb6907d57c72ef8fcc0df9c567/group-policy-force-update.png))
 
 ![](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/ca27614bc5d15626483920087fe2b6ee1745d47e/account-lockout-policy.png)
 
