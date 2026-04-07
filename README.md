@@ -75,6 +75,8 @@ The lab successfully demonstrated:
 
 ![](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/01cd05ded631c3f2d80031a9b9c1fde77ce5db5e/account-lockout-login-fails.png)
 
+![](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/8387293a159106e83da1e310f6e01f618ee9ed11/account-lockout.png)
+
 ### Lockout Event in Event Viewer
 ![Lockout Events](https://github.com/Tl39455/active-directory-account-lockout-lab/blob/82202ad40176f4bb854d5868254c0ab61e8122b0/group-policy-force-update.png)
 
